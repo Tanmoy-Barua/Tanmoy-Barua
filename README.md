@@ -1,5 +1,5 @@
-## Hi there, I am Tanmoy Barua 👋
-### Thank you visit my Github profile.
+# Hi there, I am Tanmoy Barua 👋
+## Thank you visit my Github profile.
 
 <p align="center">
     <img src ="https://github-readme-stats.vercel.app/api?username=Tanmoy-Barua&show_icons=true&count_private=true&theme=default&hide_border=false&include_all_commits=true">
