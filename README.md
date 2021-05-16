@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I am Tanmoy Barua 👋
+  # Thank you visit my Github profile.
 
+<p>
+    <img src ="https://github-readme-stats.vercel.app/api?username=tanmoy43&show_icons=true&count_private=true&theme=default&hide_border=false&include_all_commits=true">
+</p>
 <!--
 **Tanmoy-Barua/Tanmoy-Barua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
