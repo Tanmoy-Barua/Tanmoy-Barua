@@ -1,4 +1,4 @@
-![I am a Mern Stack Developer | JavaScript Developer](/assets/banner.png)
+<img src="./assets/banner.jpg" alt="Tanmoy"/> 
 
 <h1 align="center">Hi , I'm Tanmoy Barua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
